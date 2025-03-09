@@ -1,0 +1,37 @@
+X:1
+T:Gymnopédie No.1
+C:Erik Satie (Arr. Phoebe)
+M:3/4
+L:1/4
+Q:1/4=78
+K:D
+%%pagescale 1.2
+%%footer "$P"
+%%stretchlast 0.5
+%%measurenb 0
+%%barsperstaff 4
+%%score { RH | LH }
+V:RH clef=treble
+V:LH clef=bass
+V:RH
+z !2!F2 | z !2!F2 | z !2!F2 | z !2!F2 |
+z !3!f !5!a | !4!g !3!f !2!c | !1!B !2!c !3!d | !1!A3 |
+!3!F !3!F2 | z !3!F2 | z !3!F2 | z !3!F2 |
+z !3!f !5!a | !4!g !3!f !2!c | !1!B !2!c !3!d | !1!A3 |
+!4!c !1!F2 | !5!f !1!F2 | !1!E3 | z !3!G2 |
+z !1!D2 | !1!A !2!B !3!=c | !5!e !4!d !2!B | !4!d !3!=c !2!B |
+!5!d !1!D2 | z !1!D !5!d | !2!e !3!=f !4!g | !5!a !1!=c !2!d |
+!3!e !2!d !1!B | !3!d3 - | d2 !2!d | !5!g3 |
+!4!f3 | !3!B !2!A !3!B | !4!c !1!d !2!e | !1!c !2!d !3!e |
+!3!F !1!D !4!G | [EA=c]3 | [FAd]3 |]
+V:LH
+G, [B,D]2 | D, [A,C]2 | G, [B,D]2 | D, [A,C]2 |
+G, [B,D]2 | D, [A,C]2 | G, [B,D]2 | D, [A,C]2 |
+G, [B,D]2 | D, [A,C]2 | G, [B,D]2 | D, [A,C]2 |
+G, [B,D]2 | D, [A,C]2 | G, [B,D]2 | D, [A,C]2 |
+F, [A,C]2 | B,, [B,D]2 | E, [G,B,]2 | E, [G,B,]2 |
+D, [=F,A,]2 | A,, [=CE]2 | D, [G,=CE]2 | D, [G,=CE]2 |
+A,, [E,=C]2 | D, [A,=C]2 | D, [A,=C]2 | D, [A,=C]2 |
+D, [G,B,]2 | D, [E,A,=C]2 | D, [F,A,D]2 | E, [G,B,]2 |
+F, [A,C]2 | B,, [B,D]2 | E, [A,C]2 | E, [A,C]2 |
+E,,B,,E, | [A,,E,]3 | [D,,A,,]3 |]
